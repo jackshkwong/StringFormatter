@@ -15,7 +15,6 @@ namespace PointsBet_Backend_Online_Code_Test
     public class StringFormatter
     {
 
-
         //Code to improve
         public static string ToCommaSepatatedList(string[] items, string quote)
         {
